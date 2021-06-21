@@ -4,6 +4,8 @@ Place files and test5, test6, test7 into the same directory.
 
 test5 and test6 should take under 2 seconds on a standard laptop... 
 
+test7 - I scored 99,506 out of 100,000 - missing a few exceptions that I was fixing up at the deadline.  So I can't guarantee that the code will score 99,506 this time...
+
 From a Python command line (Python 3.6.9) `python3`:
 
 ```
