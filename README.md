@@ -20,6 +20,6 @@ q3end.save_answers("out6.txt")
 
 # this only reads test7 and doesn't get all the cases correct
 settings.init()
-q3end.readfile()
+q3end.readfile_v2()
 q3end.save_answers("out7.txt") 
 ```
